@@ -5,7 +5,11 @@ Bu proje, **TÜBİTAK 2209-A Lisans Araştırma Projesi** desteğiyle **Karadeni
 ---
 
 ## 📌 Proje Özeti
-Bu çalışmada, modifiye sinüs inverter sisteminin güç katı boyutlandırılmış, KiCad ortamında PCB tasarımı yapılmış ve çıkış gerilim/akım kararlılığını sağlamak amacıyla Gri Kurt Optimizasyonu (GWO) tabanlı PID kontrolör kurgulanmıştır.
+Bu projede, genel kullanım amaçlı metasezgisel algoritma tabanlı bir modifiye
+sinüs evirici tasarımı yapılmıştır. Evirici çıkış gerilimi PID denetleyici ile kontrol
+edilmiş olup, PID denetleyici parametreleri de metasezgisel algoritmalar ile belirlenmiştir. 
+Bu projede, çıkış gerilimini tasarladığım PID denetleyici ile anlık
+olarak kontrol ederek sistemin verimini ve kalitesini artırmayı amaçladım.
 
 * **Topoloji:** Modifiye Sinüs Evirici (Inverter)
 * **PCB Tasarımı:** KiCad (Şematik & Layout)
