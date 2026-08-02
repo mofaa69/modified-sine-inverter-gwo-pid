@@ -19,7 +19,7 @@ Bu çalışmada, modifiye sinüs inverter sisteminin güç katı boyutlandırıl
 ## 📁 Depo İçeriği
 
 * **`/pcb`**: Güç katı ve kontrol devresine ait KiCad şematik ve PCB layout dosyaları.
-* **`/simülasyonO`**: Gri Kurt Optimizasyonu (GWO) MATLAB kodları ve bu algoritmayla beslenen Simulink inverter simülasyon modelleri.
+* **`/simülasyon`**: Gri Kurt Optimizasyonu (GWO) MATLAB kodları ve bu algoritmayla beslenen Simulink inverter simülasyon modelleri.
 * **`/yazılım`**: Anahtarlama elemanları (MOSFET/IGBT) için üretilen mikrokontrolcü sinyal kodları.
 * **`/proje raporu`**: KTÜ Bitirme Projesi nihai raporu (PDF).
 
