@@ -1,3 +1,5 @@
+<img width="1309" height="657" alt="devrekartı" src="https://github.com/user-attachments/assets/00b01eb7-9457-4c84-b416-0f19076b4794" />
+<img width="1744" height="825" alt="3d devre" src="https://github.com/user-attachments/assets/06030f92-02ca-4b1d-9a24-d5cf3a8df6ab" />
 # Metasezgisel Algoritma Tabanlı Modifiye Sinüs Evirici (Inverter) Tasarımı
 
 Bu proje, **TÜBİTAK 2209-A Üniversite Öğrencileri Araştırma Projeleri Destekleme Programı** (Proje No: 1919B012454606) kapsamında **Karadeniz Teknik Üniversitesi Elektrik-Elektronik Mühendisliği Bölümü**'nde tamamlanmış lisans bitirme çalışmasıdır.
@@ -5,7 +7,7 @@ Bu proje, **TÜBİTAK 2209-A Üniversite Öğrencileri Araştırma Projeleri Des
 ---
 
 ## 📌 Proje Özeti
-Bu çalışmada, 24V DC giriş gerilimini 12V-18V RMS 50Hz AC çıkış gerilimine dönüştüren, 180W maksimum güce sahip kapalı çevrim bir modifiye sinüs evirici sistemi tasarlanmış ve prototipi üretilmiştir. Sistemin güç hatları pcb üzerinde yapılmamış olup 1.5mm çok damarlı kablolar ile hibrit bir şekilde yapılmıştır.
+Bu çalışmada, 24V DC giriş gerilimini 12V-18V RMS 50Hz AC çıkış gerilimine dönüştüren, 180W maksimum güce sahip kapalı çevrim bir modifiye sinüs evirici sistemi tasarlanmış ve prototipi üretilmiştir. Sistemin güç hatları pcb üzerinde yapılmamış olup 1.5mm çok damarlı kablolar ile hibrit bir şekilde yapılmıştır.PCB üzerinde mikrokontrolcü yuvası tasarımı Attiny85 için yapılmıştır ancak kolaylıkla arduino mikrokontrolcülerle beraber de kullanılabilir.
 
 Çıkış geriliminin kararlılığını sağlamak için Arduino tabanlı bir **PID denetleyici** kurgulanmış; PID kontrolörün Kp ve Ki parametreleri metasezgisel bir sürü zekası algoritması olan **Gri Kurt Optimizasyonu (GWO)** ile optimize edilmiştir.
 
